@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="nisa azki" alt="Profile Picture" width="200" style="border-radius: 50%;" />
+  <img src="nisa1.png" alt="Profile Picture" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Nisa Azki ✨</h1>
